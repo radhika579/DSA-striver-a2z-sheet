@@ -84,4 +84,4 @@ int main(){
     // cout<<fact1(3)<<endl;//radhika
     cout<<fact(5)<<endl;//Shubh
     return 0;
-}            
+}      
